@@ -15,3 +15,6 @@ single page.
 Python Scapy
 
 A local server running on localhost
+
+## USAGE
+sudo python interface.py
