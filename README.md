@@ -16,7 +16,7 @@ Python Scapy
 
 dsniff (sudo apt install dsniff)
 
-netifaces (sudo apt install netifaces)
+netifaces (sudo pip install netifaces)
 
 A local server running on localhost
 
