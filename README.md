@@ -14,6 +14,10 @@ single page.
 ## REQUIREMENTS
 Python Scapy
 
+dsniff (sudo apt install dsniff)
+
+netifaces (sudo apt install netifaces)
+
 A local server running on localhost
 
 ## USAGE
