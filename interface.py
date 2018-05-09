@@ -69,6 +69,7 @@ while True:
 	elif cmd == '2':
 		interface.dns_spoof()
 	elif cmd == 'exit' or cmd == 'EXIT':
+		os.system('clear')
 		interface.exit()
 	else:
 		interface.show_menu()

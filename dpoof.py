@@ -51,8 +51,6 @@ def get_info():
 """
 def kill_arpspoof():
 
-	os.system('clear')
-
 	#Obtenemos una lista de pid's de comandos arpspoof
 	sub, output = cmd("ps aux | grep arpspoof | awk {'print $2'}")
 	lines = output.splitlines()
