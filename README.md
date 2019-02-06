@@ -12,7 +12,7 @@ most recently visited pages, and it will not take our fake IP as the good one. I
 single page.
 
 ## REQUIREMENTS
-Python Scapy
+Python Scapy (sudo pip install scapy==2.4.2)
 
 dsniff (sudo apt install dsniff)
 
